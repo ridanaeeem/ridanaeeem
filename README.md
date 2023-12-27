@@ -1,13 +1,13 @@
 <h1 align="center">Hello! My name is Rida</h1>
 <h3 align="center">I am a senior studying Neuroscience and CS at Boston University</h3>
 
-- 🔭 I’m currently working on [NerdNest3D](https://github.com/KingTingTheGreat/nerdnest3d)
+- 🔭 I’m currently working on [NerdNest3D](https://github.com/KingTingTheGreat/nerdnest3d) and my personal website - stay tuned!
 
-- 🌱 I’m currently learning **the MERN stack** 
+- 🌱 I’m currently learning **Arduino and TensorFlow** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/ridanaeeem?tab=repositories](https://github.com/ridanaeeem?tab=repositories)
 
-- 📫 How to reach me **ridan@bu.edu**
+- 📫 Reach me at **ridan@bu.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
