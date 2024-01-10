@@ -1,7 +1,8 @@
 <h1 align="center">Hello! My name is Rida</h1>
 <h3 align="center">I am a senior studying Neuroscience and CS at Boston University</h3>
+<h3 align="center">Check out my <a href="https://www.rnaeem.com">website</a>!</h3>
 
-- 🔭 I’m currently working on [NerdNest3D](https://github.com/KingTingTheGreat/nerdnest3d) and my personal website - stay tuned!
+- 🔭 I’m currently working on [NerdNest3D](https://github.com/KingTingTheGreat/nerdnest3d)!
 
 - 🌱 I’m currently learning **Arduino and TensorFlow** 
 
