@@ -1,9 +1,9 @@
 <h1 align="center">Hello! My name is Rida</h1>
-<h3 align="center">I am a recent graduate from Boston University, where I earned by B.A. in Neuroscience and minored in Computer Science. Check out my <a href="https://www.rnaeem.com">website here</a> to see my portfolio!</h3>
+<h3 align="center">I am a recent graduate from Boston University, where I earned my B.A. in Neuroscience and minored in Computer Science. Check out my <a href="https://www.rnaeem.com">website here</a> to see my portfolio!</h3>
 
-- 💼 Currently I'm interning at the Department of Energy Office of Clean Energy demonstrations, where I'm doing some exciting things with data and learning about privacy and data management.
+- 💼 I am currently interning at the Department of Energy's Office of Clean Energy Demonstrations, where I'm doing some exciting things with data and learning about privacy and data management.
  
-- 🔭 Outside of work, I am developing on [a scientific article platform for Women in Neuroscience at Boston University](https://github.com/ridanaeeem/win-journal)! It will be ready this fall so check back for updates!
+- 🔭 Outside of work, I am developing [a scientific article platform for Women in Neuroscience at Boston University](https://github.com/ridanaeeem/win-journal)! It will be ready this fall so check back for updates!
 
 - 📫 Reach me at **ridan@bu.edu**
 
